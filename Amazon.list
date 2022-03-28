@@ -67,9 +67,9 @@ IP-CIDR,13.34.12.244/31,no-resolve
 IP-CIDR,13.34.12.64/26,no-resolve
 IP-CIDR,13.34.13.128/26,no-resolve
 IP-CIDR,13.34.13.18/31,no-resolve
-IP-CIDR,13.34.13.20/31,no-resolve
+IP-CIDR,13.34.13.20/30,no-resolve
 IP-CIDR,13.34.13.50/31,no-resolve
-IP-CIDR,13.34.13.52/31,no-resolve
+IP-CIDR,13.34.13.52/30,no-resolve
 IP-CIDR,13.34.14.128/25,no-resolve
 IP-CIDR,13.34.15.0/26,no-resolve
 IP-CIDR,13.34.16.128/25,no-resolve
@@ -128,10 +128,8 @@ IP-CIDR,13.34.60.0/23,no-resolve
 IP-CIDR,13.34.62.0/26,no-resolve
 IP-CIDR,13.34.62.128/25,no-resolve
 IP-CIDR,13.34.63.0/24,no-resolve
-IP-CIDR,13.34.64.0/23,no-resolve
-IP-CIDR,13.34.66.0/24,no-resolve
-IP-CIDR,13.34.67.0/26,no-resolve
-IP-CIDR,13.34.67.64/27,no-resolve
+IP-CIDR,13.34.64.0/22,no-resolve
+IP-CIDR,13.34.68.0/27,no-resolve
 IP-CIDR,13.34.7.64/26,no-resolve
 IP-CIDR,13.34.8.64/26,no-resolve
 IP-CIDR,13.34.9.0/26,no-resolve
@@ -172,9 +170,8 @@ IP-CIDR,15.200.0.0/16,no-resolve
 IP-CIDR,15.205.0.0/16,no-resolve
 IP-CIDR,15.206.0.0/15,no-resolve
 IP-CIDR,15.220.0.0/19,no-resolve
-IP-CIDR,15.220.200.0/22,no-resolve
-IP-CIDR,15.220.205.0/24,no-resolve
-IP-CIDR,15.220.206.0/23,no-resolve
+IP-CIDR,15.220.196.0/22,no-resolve
+IP-CIDR,15.220.200.0/21,no-resolve
 IP-CIDR,15.220.216.0/21,no-resolve
 IP-CIDR,15.220.224.0/20,no-resolve
 IP-CIDR,15.220.248.0/21,no-resolve
