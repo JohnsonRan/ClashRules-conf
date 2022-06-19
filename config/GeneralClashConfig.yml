@@ -1,13 +1,7 @@
-mixed-port: 7893
-socks-port: 7891
 allow-lan: true
-bind-address: "*"
 ipv6: false
 mode: rule
 log-level: error
-external-controller: 0.0.0.0:9090
-experimental:
-  ignore-resolve-fail: true
 dns:
   enable: true
   ipv6: false
@@ -97,9 +91,6 @@ dns:
   - "*.square-enix.com"
   - "*.finalfantasyxiv.com"
   - "*.ffxiv.com"
-  default-nameserver:
-  - 223.5.5.5
-  - 223.6.6.6
   fallback-filter:
     geoip: true
     geoip-code: CN
@@ -126,24 +117,3 @@ dns:
     - "+.youtube.com"
     - "+.githubusercontent.com"
     - "+.googlevideo.com"
-  nameserver:
-  - 223.5.5.5
-  - 223.6.6.6
-  fallback:
-  - tls://8.8.8.8
-  - tls://8.8.4.4
-  listen: 127.0.0.1:7874
-tun:
-  enable: true
-  stack: system
-  dns-hijack:
-  - tls://8.8.8.8:53
-  - tls://8.8.4.4:53
-profile:
-  tracing: true
-  store-selected: true
-  store-fake-ip: true
-redir-port: 7892
-tproxy-port: 7895
-port: 7890
-secret: '123456'
