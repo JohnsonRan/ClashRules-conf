@@ -4094,7 +4094,6 @@ DOMAIN,archive.org
 DOMAIN,archive.ph
 DOMAIN,archive.st
 DOMAIN,archive.today
-DOMAIN,archive.vn
 DOMAIN,archiveofourown.com
 DOMAIN,archiveofourown.me
 DOMAIN,archiveofourown.net
@@ -5405,7 +5404,6 @@ DOMAIN,blogspot.com.uy
 DOMAIN,blogspot.cz
 DOMAIN,blogspot.de
 DOMAIN,blogspot.dk
-DOMAIN,blogspot.es
 DOMAIN,blogspot.fi
 DOMAIN,blogspot.fr
 DOMAIN,blogspot.gr
@@ -7163,7 +7161,6 @@ DOMAIN,cnabc.com
 DOMAIN,cnadmin.crosspoint.fit
 DOMAIN,cnbaike.org
 DOMAIN,cnbbnews.wordpress.com
-DOMAIN,cnbc.com
 DOMAIN,cnbetway.com
 DOMAIN,cncurrent.com
 DOMAIN,cnd.org
@@ -7293,7 +7290,6 @@ DOMAIN,compusa.com
 DOMAIN,compuserve.com
 DOMAIN,comunio.de
 DOMAIN,comunitatibetana.org
-DOMAIN,conair.me
 DOMAIN,conceptdoppler.org
 DOMAIN,conduit.com
 DOMAIN,coned.com
@@ -9809,7 +9805,6 @@ DOMAIN,evhead.com
 DOMAIN,evilangel.com
 DOMAIN,evilbs.com
 DOMAIN,evolutionguide.blogspot.co.nz
-DOMAIN,evozi.com
 DOMAIN,evpn.me
 DOMAIN,evsc.org.au
 DOMAIN,evschool.net
@@ -11739,7 +11734,6 @@ DOMAIN,google.bt
 DOMAIN,google.by
 DOMAIN,google.ca
 DOMAIN,google.cat
-DOMAIN,google.cc
 DOMAIN,google.cd
 DOMAIN,google.cf
 DOMAIN,google.cg
@@ -11800,12 +11794,10 @@ DOMAIN,google.com.gi
 DOMAIN,google.com.gt
 DOMAIN,google.com.hk
 DOMAIN,google.com.im
-DOMAIN,google.com.iq
 DOMAIN,google.com.jm
 DOMAIN,google.com.kh
 DOMAIN,google.com.kw
 DOMAIN,google.com.lb
-DOMAIN,google.com.lc
 DOMAIN,google.com.libproxy.mit.edu
 DOMAIN,google.com.ly
 DOMAIN,google.com.mm
@@ -11832,7 +11824,6 @@ DOMAIN,google.com.sg
 DOMAIN,google.com.sl
 DOMAIN,google.com.sv
 DOMAIN,google.com.tj
-DOMAIN,google.com.tn
 DOMAIN,google.com.tr
 DOMAIN,google.com.tw
 DOMAIN,google.com.ua
@@ -11856,7 +11847,6 @@ DOMAIN,google.fm
 DOMAIN,google.fr
 DOMAIN,google.ga
 DOMAIN,google.ge
-DOMAIN,google.gf
 DOMAIN,google.gg
 DOMAIN,google.gl
 DOMAIN,google.gm
@@ -11871,7 +11861,6 @@ DOMAIN,google.hu
 DOMAIN,google.ie
 DOMAIN,google.im
 DOMAIN,google.in
-DOMAIN,google.io
 DOMAIN,google.iq
 DOMAIN,google.is
 DOMAIN,google.it
@@ -11940,7 +11929,6 @@ DOMAIN,google.tse.moe
 DOMAIN,google.tt
 DOMAIN,google.tw
 DOMAIN,google.ua
-DOMAIN,google.uk
 DOMAIN,google.us
 DOMAIN,google.vg
 DOMAIN,google.vn
@@ -14481,6 +14469,7 @@ DOMAIN,jonimitchell.com
 DOMAIN,jonliebman.com
 DOMAIN,jonward.com
 DOMAIN,jorn.net
+DOMAIN,jornaldacidadeonline.com.br
 DOMAIN,jornaldiario.com
 DOMAIN,joshinweb.jp
 DOMAIN,joshuarue.com
@@ -14533,6 +14522,7 @@ DOMAIN,js9900vip.com
 DOMAIN,jsdaodu16.jigsy.com
 DOMAIN,jsdd15.jigsy.com
 DOMAIN,jsdd17.jigsy.com
+DOMAIN,jsdelivr.net
 DOMAIN,jsfiddle.net
 DOMAIN,jsh911.com
 DOMAIN,jsjt-global.com
@@ -15533,7 +15523,6 @@ DOMAIN,lightmodehelmets.com
 DOMAIN,lightnovel.cn
 DOMAIN,lightyearvpn.com
 DOMAIN,ligmincha.org
-DOMAIN,lih.kg
 DOMAIN,lihkg.com
 DOMAIN,liho.club
 DOMAIN,liimov.com
@@ -16112,7 +16101,6 @@ DOMAIN,maikou.com
 DOMAIN,mail-archive.com
 DOMAIN,mail-attachment.googleusercontent.com
 DOMAIN,mail.cod.edu
-DOMAIN,mail.com
 DOMAIN,mail.cyberpower.com
 DOMAIN,mail.dynit.it
 DOMAIN,mail.embraco.com
@@ -16420,9 +16408,9 @@ DOMAIN,mehide.org
 DOMAIN,meibath.com
 DOMAIN,meihuavpn.com
 DOMAIN,meilizhongguo.biz
-DOMAIN,meirifuli.org
-DOMAIN,meirixiaochao.com
 DOMAIN,meiyu7.com
+DOMAIN,meizhong.blog
+DOMAIN,meizhong.report
 DOMAIN,melbournetibetan.com
 DOMAIN,melonstube.com
 DOMAIN,meltdownintibet.com
@@ -17257,8 +17245,6 @@ DOMAIN,n2.flnet.org
 DOMAIN,n24.de
 DOMAIN,n2646.com
 DOMAIN,n33285.com
-DOMAIN,n3ro.live
-DOMAIN,n3ro.net
 DOMAIN,n47s.ras.flnet.org
 DOMAIN,n88800.com
 DOMAIN,n88850.com
@@ -17429,6 +17415,7 @@ DOMAIN,netmap.su
 DOMAIN,netme.cc
 DOMAIN,netmums.com
 DOMAIN,netpas.cc
+DOMAIN,netsarang.com
 DOMAIN,netsee.co
 DOMAIN,netsjoes.com.br
 DOMAIN,netsneak.com
@@ -17778,7 +17765,6 @@ DOMAIN,notepad-plus-plus.org
 DOMAIN,notheroes.com
 DOMAIN,nothinghere.tk
 DOMAIN,notify.dropboxapi.com
-DOMAIN,notion.so
 DOMAIN,notnancy.cl
 DOMAIN,noto.web.id
 DOMAIN,notproductive.com
@@ -18174,6 +18160,7 @@ DOMAIN,oneworld.cz
 DOMAIN,oneworldgaming.com
 DOMAIN,onexxtv.com
 DOMAIN,onion.city
+DOMAIN,onion.ly
 DOMAIN,onion.ws
 DOMAIN,onionshare.org
 DOMAIN,onision.com
@@ -18537,7 +18524,6 @@ DOMAIN,pao66.com
 DOMAIN,paoche.pw
 DOMAIN,paofucloud.com
 DOMAIN,paofucloud.vip
-DOMAIN,paofuyun.me
 DOMAIN,paopao11.azurewebsites.net
 DOMAIN,paopao12.azurewebsites.net
 DOMAIN,paopao13.azurewebsites.net
@@ -18741,7 +18727,6 @@ DOMAIN,pewinternet.org
 DOMAIN,pewreligion.org
 DOMAIN,pewresearch.org
 DOMAIN,pewsocialtrends.org
-DOMAIN,pexcn.me
 DOMAIN,pezblanco.cl
 DOMAIN,pf.anonplus.org
 DOMAIN,pf266.com
@@ -19136,7 +19121,6 @@ DOMAIN,pornscum.com
 DOMAIN,pornsharing.com
 DOMAIN,pornsocket.com
 DOMAIN,pornsos.com
-DOMAIN,pornstarbyface.com
 DOMAIN,pornstarclub.com
 DOMAIN,pornstarsporno.com
 DOMAIN,pornsyte.com
@@ -19322,7 +19306,6 @@ DOMAIN,propub.li
 DOMAIN,prosiben.de
 DOMAIN,proteinalactea.com
 DOMAIN,protempproducts.com
-DOMAIN,protonmail.com
 DOMAIN,protonvpn.com
 DOMAIN,protv.ro
 DOMAIN,protvi.ro
@@ -19990,7 +19973,6 @@ DOMAIN,regionalwifi.net
 DOMAIN,register.moex.gov.tw
 DOMAIN,registry.google
 DOMAIN,rehabforum.org
-DOMAIN,reimu.net
 DOMAIN,reindeervpn.com
 DOMAIN,reisrelaas.nl
 DOMAIN,rejectccp.com
@@ -21316,6 +21298,7 @@ DOMAIN,sohografica.ro
 DOMAIN,sokamonline.com
 DOMAIN,sokmil.com
 DOMAIN,sola.idv.tw
+DOMAIN,solana.com
 DOMAIN,solarsystem.nasa.gov
 DOMAIN,soldier.ga
 DOMAIN,solidaritetibet.org
@@ -23946,6 +23929,7 @@ DOMAIN,uscellular.com
 DOMAIN,uscirf.gov
 DOMAIN,uscis.gov
 DOMAIN,uscnpm.com
+DOMAIN,uscnpm.org
 DOMAIN,uscti.org
 DOMAIN,usdehua.com
 DOMAIN,usechinavpn.com
@@ -24314,7 +24298,6 @@ DOMAIN,vitamin-discounts.com
 DOMAIN,viu.com
 DOMAIN,viu.tv
 DOMAIN,vivahentai4u.net
-DOMAIN,vivaldi.net
 DOMAIN,vivatube.com
 DOMAIN,vivianchan.com
 DOMAIN,vivid.com
@@ -25802,6 +25785,7 @@ DOMAIN,xingsu.me
 DOMAIN,xinha.win
 DOMAIN,xinhaunet.com
 DOMAIN,xinhuanet.org
+DOMAIN,xinjiangpolicefiles.org
 DOMAIN,xinjiecloud.com
 DOMAIN,xinlingcihang.com
 DOMAIN,xinlingfamen.net
@@ -26784,7 +26768,6 @@ DOMAIN,zillionk.com
 DOMAIN,zim.vn
 DOMAIN,zimuku.net
 DOMAIN,zimuzu.com
-DOMAIN,zind.cloud
 DOMAIN,zindagi.ca
 DOMAIN,zinio.com
 DOMAIN,zinio.com.tw
